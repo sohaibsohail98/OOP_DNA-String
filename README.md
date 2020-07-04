@@ -1,0 +1,1 @@
+In this repository, you will find my DNA String, completing exercise 2.
