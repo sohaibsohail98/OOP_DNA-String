@@ -1,23 +1,17 @@
-# The Problem
-#
-# "Write a program that prints the numbers from 1 to 100.
-# But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”.
-# For numbers which are multiples of both three and five print “FizzBuzz”."
-#
-# NOTE -> Must be in class and method format
-class Fizzbuzz:
-    def multiples():
-        for number in range(1, 101):
-            if number % 3 == 0 and number % 5 == 0:
+class Fizzbuzz: #Defining a class
+    def multiples(): #Defining a function
+        for number in range(1, 101): #Number ranging from 1 to 100, a FOR loop - look for remainders when finding multiples of 3 and 5
+            if number % 3 == 0 and number % 5 == 0: #Multiples of 5 and 3
                 print('FizzBuzz')
                 continue
-            elif number % 3 == 0:
+            elif number % 3 == 0: #Multiples of 3 only
                 print('Fizz')
                 continue
-            elif number % 5 == 0:
+            elif number % 5 == 0: #Multiples of 5 only
                 print('Buzz')
                 continue
 
-            print(number)
+            print(number) #This prints out the numbers that aren't multiples of 3 or 5.
 Fizzbuzz.multiples()
+#This is calling the class and function.
 
