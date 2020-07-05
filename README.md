@@ -1,1 +1,1 @@
-In this repository, you will find my DNA String, completing exercise 2.
+In this repository, you will find all of my exercises for OOP.
