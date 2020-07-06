@@ -1,1 +1,0 @@
-In this repository, you will find all of my exercises for OOP.

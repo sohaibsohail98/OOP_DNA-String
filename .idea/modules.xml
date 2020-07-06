@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../OOP_Exercises/.idea/OOP_Exercises.iml" filepath="$PROJECT_DIR$/../OOP_Exercises/.idea/OOP_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_Exercises.iml" filepath="$PROJECT_DIR$/.idea/OOP_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_data_abstraction/.idea/student_data_abstraction.iml" filepath="$PROJECT_DIR$/../student_data_abstraction/.idea/student_data_abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_data_encapsulation/.idea/student_data_encapsulation.iml" filepath="$PROJECT_DIR$/../student_data_encapsulation/.idea/student_data_encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_data_inheritance/.idea/student_data_inheritance.iml" filepath="$PROJECT_DIR$/../student_data_inheritance/.idea/student_data_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student_data_polymorphism/.idea/student_data_polymorphism.iml" filepath="$PROJECT_DIR$/../student_data_polymorphism/.idea/student_data_polymorphism.iml" />
     </modules>
   </component>
 </project>
